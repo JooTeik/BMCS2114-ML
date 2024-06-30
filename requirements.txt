@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+matplotlib
+plotly
+numpy
+minisom
+scikit-learn-extra
